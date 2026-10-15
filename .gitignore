@@ -1,0 +1,10 @@
+# исходники генераций и служебные файлы — в репозиторий не идут
+img/*.png
+img/plot-overgrown*
+img/plot-v2-gemini*
+img/plot-v2-driveway.jpg
+img/plot-v2-pond.jpg
+img/plot-v2-fence.jpg
+img/plot-v2-barn.jpg
+tools/__pycache__/
+.DS_Store
